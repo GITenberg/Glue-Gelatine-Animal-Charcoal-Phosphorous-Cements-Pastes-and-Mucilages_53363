@@ -1,0 +1,37 @@
+_repo: Glue-Gelatine-Animal-Charcoal-Phosphorous-Cements-Pastes-and-Mucilages_53363
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawidowsky, F. (Ferdinand)
+    alias: Dawidowsky, Ferdinand
+    gutenberg_agent_id: '47336'
+    url: http://www.gutenberg.org/2009/agents/47336
+  editor:
+    agent_name: Brannt, William T. (William Theodore)
+    alias: Brannt, William Theodore
+    birthdate: 1844
+    gutenberg_agent_id: '45720'
+    url: http://www.gutenberg.org/2009/agents/45720
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2016-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53363'
+  lccn: 05031834
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mucilage'
+- !lcsh 'Animal charcoal'
+- !lcsh 'Paste'
+- !lcsh 'Cements, Adhesive'
+- !lcc 'TP'
+- !lcsh 'Gelatin'
+- !lcsh 'Glue'
+- !lcsh 'Phosphorus'
+- GITenberg
+title: Glue, Gelatine, Animal Charcoal, Phosphorous, Cements, Pastes and Mucilages
+url: http://www.gutenberg.org/ebooks/53363
